@@ -1,0 +1,10 @@
+
+******************************
+The following are required for this workshop
+
+VS CODE
+GITHUB
+HTML
+CSS
+BOOTSTRAP
+JAVSCRIPT
